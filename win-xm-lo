@@ -1,0 +1,3 @@
+.\xmrig -o rx.unmineable.com:3333 -a rx -k -u BTC:bc1qmw5hdlgw0fpc8kwm2ravtdkcfm5aegkdc8k993.CPU-win -p 2 -k -a rx/0 --cpu-max-threads-hint=75
+
+.\lolMiner --algo ETHASH --pool etchash-us.unmineable.com:3333 --user BTC:bc1qmw5hdlgw0fpc8kwm2ravtdkcfm5aegkdc8k993.LOL-win02 --tls 0
